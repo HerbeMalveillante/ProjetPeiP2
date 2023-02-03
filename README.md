@@ -98,3 +98,10 @@ Pour prouver que deux grilles sont symétriques, on génère toutes les symétri
 COMPTE RENDU FIN DE SÉANCE :
 
 Nous avons écrit un résumé de ce que nous allons devoir comprendre et implémenter afin de mener à bien ce projet, nous avons finalement écrit une partie du code permettant de générer tous les symétriques d'une grille de dimension n avec une représentation binaire.
+
+27 JANVIER 2023
+
+COMPTE RENDU DE SÉANCE :
+
+Nous avons continué à implémenter le problème. Après avoir modifié la façon dont sont représentées les grilles (anciennement des strings représentant des nombres binaires, maintenant un entier), nous avons codé des méthodes pour générer les coups légaux, et ainsi créer le noyau du jeu de Nim dans une nouvelle classe "Graphe" qui sera calculé au début de la partie.
+Nous avons également commencé à travailler sur l'interface graphique du jeu, avec Tkinter.
